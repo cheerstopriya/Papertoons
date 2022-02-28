@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929220814058",
+    "project_id": "papertoons-75abe",
+    "storage_bucket": "papertoons-75abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929220814058:android:5ab225afa59b21c3baa393",
+        "android_client_info": {
+          "package_name": "com.pmcpmc.papertoons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929220814058-5stpo9jqpredjdhouvkkl0gn5uhkrs3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu3JawKgQtvzta3KYsISwazyGZTf26nQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929220814058-5stpo9jqpredjdhouvkkl0gn5uhkrs3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
